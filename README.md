@@ -1,5 +1,7 @@
 # Nux Provocatio XXII
 
+## URL: https://daniellesison.github.io/nux-provocatio-xxii/
+
 ## Description
 
 This activity was completed to edit a webpage from a marketing agency "Horiseon" that follows accessbility standards that would result in its optimization for search engines. Edited content, code, and styling resolves the lacking elements that it required to fulfill the consumer's acceptance criteria. 
